@@ -25,3 +25,12 @@ Import module:
 {Integrator, Euler, ImprovedEuler, Verlet, Particle, Physics, Vector, Spring, Behaviour, Attraction, Collision, ConstantForce, EdgeBounce, EdgeWrap, Wander, Gravity} = require 'coffeePhysics'
 ```
 
+---
+
+**If you are using this module, please 'star' the project**. It's a simple way to help me see how many people are using it.
+
+If you ***love*** this module, why not shout me a coffee ☕️ via [PayPal](https://www.paypal.me/perrysmotors/5) to share the love!
+
+<a href="https://www.paypal.me/perrysmotors/5">
+  <img width="160" height="41" src="https://user-images.githubusercontent.com/12557727/39295119-7e115bca-4935-11e8-9fe9-802d667ac22c.png">
+</a>
